@@ -17,10 +17,6 @@ These items are from the **10+ Treasures, Volume II: More Magic Items** from **A
 
 ## Incomplete Adventurer for Dungeon World
 <p align="center">
-  <img width="300" src="images/guide/usedw.png">
-</p>
-
-<p align="center">
   <img width="300" src="images/guide/folders.png">
 </p>
 
