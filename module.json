@@ -3,7 +3,7 @@
    "title": "Dungeon World - Extra Content",
    "description": "Extra Content for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "minimumCoreVersion": "0.8.9",
    "compatibleCoreVersion":"9",
    "packs": [
@@ -30,6 +30,13 @@
         "module": "dungeon-world-extra-content"
       }      
     ],
+  "dependencies": [
+    {
+      "type": "module",
+      "name": "compendium-folders",
+      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+    }    
+  ],    
   "system": "dungeonworld",
   "url": "https://github.com/brunocalado/dungeon-world-extra-content",
   "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-extra-content/main/module.json",  
