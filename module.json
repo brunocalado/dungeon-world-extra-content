@@ -1,0 +1,37 @@
+{   
+   "name": "dungeon-world-extra-content",   
+   "title": "Dungeon World - Extra Content",
+   "description": "Extra Content for Dungeon World",   
+   "author": "Mestre Digital",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.8.9",
+   "compatibleCoreVersion":"9",
+   "packs": [
+      {
+        "name": "10-treasures-ii-more-magic-items",
+        "label": "10+ Treasures II: More Magic Items",
+        "path": "packs/10-treasures-ii-more-magic-items.db",
+        "entity": "Item",
+        "module": "dungeon-world-extra-content"
+      },
+      {
+        "name": "incomplete-adventurer",
+        "label": "Incomplete Adventurer",
+        "path": "packs/incomplete-adventurer.db",
+        "entity": "Item",
+        "module": "dungeon-world-extra-content",
+        "private": false
+      },
+      {
+        "name": "take-on-magic-items",
+        "label": "Take on Magic Items",
+        "path": "packs/take-on-magic-items.db",
+        "entity": "Item",
+        "module": "dungeon-world-extra-content"
+      }      
+    ],
+  "system": "dungeonworld",
+  "url": "https://github.com/brunocalado/dungeon-world-extra-content",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-extra-content/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/dungeon-world-extra-content/zip/main"               
+}
