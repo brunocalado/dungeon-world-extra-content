@@ -11,15 +11,7 @@ New magic items for Dungeon World.
 
 These items are from the **10+ Treasures, Volume II: More Magic Items** from **Awful Good Games**. You can get the PDF at: https://www.drivethrurpg.com/product/138230/10-Treasures-Volume-II-More-Magic-Items
 
-<p align="center">
-  <img width="900" src="images/guide/demo.jpg">
-</p>
-
 ## Incomplete Adventurer for Dungeon World
-<p align="center">
-  <img width="300" src="images/guide/folders.png">
-</p>
-
 Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Trevor Murray & Ben Rosenbloom.
 
 The document has 18 playbooks and you can download the PDF at: https://benkrosenbloom.itch.io/incomplete-adventurer
@@ -46,20 +38,17 @@ The document has 18 playbooks and you can download the PDF at: https://benkrosen
 17. The Verdant
 18. The Warlock
 
-### Instructions
-1. Go to Compendium **Incomplete Adventurer**
-2. Choose the playbook folder you want.
-3. Right click it and choose Import.
-4. The class will be available for the Character Builder now.
-
 ## Take on Magic Items (unofficial)
 
 New magic items for Dungeon World. 
 
 These items are from the **Take on Magic Items** from **Take On Rules (unofficial)**. You can get the PDF at: https://www.drivethrurpg.com/product/106849/Take-on-Magic-Items
 
+# Instructions
+1. Import an Adventure Compendium you want.
+
 <p align="center">
-  <img width="900" src="images/guide/demo2.jpg">
+  <img width="900" src="images/guide/demo.webp">
 </p>
 
 # Install

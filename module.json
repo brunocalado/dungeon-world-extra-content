@@ -2,42 +2,46 @@
    "name": "dungeon-world-extra-content",   
    "title": "Dungeon World - Extra Content",
    "description": "Extra Content for Dungeon World",   
-   "author": "Mestre Digital",
-   "version": "0.0.5",
-   "minimumCoreVersion": "9",
-   "compatibleCoreVersion":"9",
+  "authors": [
+    {
+      "name": "Mestre Digital",
+      "url": "https://www.youtube.com/c/MestreDigital",
+      "flags": {}
+    }
+  ],
+   "version": "0.1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
    "packs": [
       {
-        "name": "10-treasures-ii-more-magic-items",
-        "label": "10+ Treasures II: More Magic Items",
-        "path": "packs/10-treasures-ii-more-magic-items.db",
-        "entity": "Item",
-        "module": "dungeon-world-extra-content"
-      },
-      {
-        "name": "incomplete-adventurer",
-        "label": "Incomplete Adventurer",
-        "path": "packs/incomplete-adventurer.db",
-        "entity": "Item",
-        "module": "dungeon-world-extra-content",
+        "label": "Dungeon World - Extra Content",
+        "type": "Adventure",
+        "name": "dungeon-world-extra-content",
+        "path": "packs/dungeon-world-extra-content.db",
+        "system": "dungeonworld",
         "private": false
-      },
-      {
-        "name": "take-on-magic-items",
-        "label": "Take on Magic Items",
-        "path": "packs/take-on-magic-items.db",
-        "entity": "Item",
-        "module": "dungeon-world-extra-content"
-      }      
+      }    
     ],
-  "dependencies": [
-    {
-      "type": "module",
-      "name": "compendium-folders",
-      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
-    }    
-  ],    
-  "system": "dungeonworld",
+
+  "relationships": {
+    "systems": [
+      {
+        "id": "dungeonworld",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "compendium-folders",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+      }
+    ]
+  },
+
   "url": "https://github.com/brunocalado/dungeon-world-extra-content",
   "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-extra-content/main/module.json",  
   "download": "https://codeload.github.com/brunocalado/dungeon-world-extra-content/zip/main"               
