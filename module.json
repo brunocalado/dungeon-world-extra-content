@@ -9,19 +9,18 @@
       "flags": {}
     }
   ],
-   "version": "0.1.1",
+   "version": "0.1.2",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "11"
   },
    "packs": [
       {
         "label": "Dungeon World - Extra Content",
         "type": "Adventure",
         "name": "dungeon-world-extra-content",
-        "path": "packs/dungeon-world-extra-content.db",
-        "system": "dungeonworld",
-        "private": false
+        "path": "packs/dungeon-world-extra-content",
+        "system": "dungeonworld"
       }    
     ],
 
@@ -30,13 +29,6 @@
       {
         "id": "dungeonworld",
         "type": "system"
-      }
-    ],
-    "requires": [
-      {
-        "id": "compendium-folders",
-        "type": "module",
-        "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
       }
     ]
   },
