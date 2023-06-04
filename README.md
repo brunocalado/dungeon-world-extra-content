@@ -83,7 +83,7 @@ You can check the license of this at page 9 from PDF.
 
 These items are from the **Take on Magic Items** from **Take On Rules (unofficial)**. You can get the PDF at: https://www.drivethrurpg.com/product/106849/Take-on-Magic-Items
 
-
-
+# Mestre Digital
+About this module creator: https://sites.google.com/view/mestredigitalmodules
 
 
